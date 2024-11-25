@@ -1,0 +1,446 @@
+IV. XÂY DỰNG QUY TRÌNH VẬN HÀNH
+
+1. Thiết lập quy trình sản xuất/cung ứng
+
+1.1. Xác định các bước sản xuất hiệu quả
+
+Lập sơ đồ quy trình sản xuất tổng thể:
+1. Nhập nguyên liệu
+2. Kiểm tra chất lượng nguyên liệu
+3. Bảo quản nguyên liệu
+4. Chuẩn bị nguyên liệu
+5. Pha chế đồ uống
+6. Kiểm tra chất lượng sản phẩm
+7. Phục vụ khách hàng
+
+Phân tích từng công đoạn sản xuất:
+- Nhập nguyên liệu: Kiểm tra số lượng, chất lượng, hạn sử dụng
+- Bảo quản: Phân loại, sắp xếp theo nguyên tắc FIFO
+- Chuẩn bị: Cân đong, xay hạt cà phê, đun nước
+- Pha chế: Tuân thủ công thức chuẩn cho từng loại đồ uống
+- Kiểm tra: Đánh giá hương vị, nhiệt độ, trang trí
+
+Xác định thời gian cho mỗi bước:
+- Nhập nguyên liệu: 30 phút/lần
+- Kiểm tra chất lượng: 15 phút/lần
+- Chuẩn bị nguyên liệu: 10 phút/ca
+- Pha chế Espresso: 25-30 giây
+- Pha chế Latte: 2-3 phút
+- Kiểm tra sản phẩm: 30 giây/ly
+
+Tính toán công suất sản xuất:
+- Công suất tối đa: 200 ly/ngày
+- Thời gian hoạt động: 12 giờ/ngày
+- Công suất trung bình: 15-20 ly/giờ
+
+Lập kế hoạch sản xuất:
+- Dự báo nhu cầu hàng ngày dựa trên dữ liệu lịch sử
+- Chuẩn bị nguyên liệu trước mỗi ca 30 phút
+- Bố trí nhân sự linh hoạt theo giờ cao điểm
+
+Kiểm soát chất lượng:
+- Kiểm tra nhiệt độ nước: 90-96°C cho Espresso
+- Kiểm tra áp suất máy: 9 bar
+- Đánh giá cảm quan: màu sắc, mùi, vị 3 lần/ngày
+
+Quản lý tồn kho nguyên vật liệu:
+- Duy trì lượng tồn kho an toàn: 7 ngày sử dụng
+- Kiểm kê hàng tuần vào cuối tuần
+- Đặt hàng khi tồn kho xuống dưới 30%
+
+Quản lý thành phẩm:
+- Quy định thời gian lưu giữ tối đa cho từng loại đồ uống
+- Kiểm tra và loại bỏ sản phẩm quá hạn mỗi giờ
+- Ghi chép số lượng sản phẩm bị loại bỏ hàng ngày
+
+1.2. Tối ưu hóa quy trình
+
+Phân tích điểm nghẽn:
+- Xác định thời gian chờ đợi lâu nhất: pha chế trong giờ cao điểm
+- Đo lường thời gian hoàn thành từng công đoạn
+- Sử dụng biểu đồ Gantt để trực quan hóa quy trình
+
+Cải tiến quy trình liên tục:
+- Áp dụng phương pháp Kaizen: đề xuất cải tiến hàng tuần
+- Thực hiện PDCA (Plan-Do-Check-Act) cho mỗi thay đổi
+- Đánh giá hiệu quả cải tiến sau 1 tháng áp dụng
+
+Áp dụng công nghệ tự động hóa:
+- Sử dụng máy pha cà phê tự động cho các loại cơ bản
+- Lắp đặt hệ thống POS tích hợp quản lý đơn hàng
+- Triển khai app đặt hàng trước để giảm thời gian chờ
+
+Giảm thiểu lãng phí:
+- Áp dụng 5S trong khu vực pha chế
+- Tối ưu hóa động tác pha chế: giảm từ 7 xuống 5 bước
+- Chuẩn hóa lượng nguyên liệu cho từng loại đồ uống
+
+Tối ưu thời gian sản xuất:
+- Mục tiêu giảm 20% thời gian pha chế mỗi ly
+- Chuẩn bị trước các nguyên liệu phổ biến
+- Bố trí khu vực pha chế hợp lý theo quy trình
+
+Tiết kiệm nguyên vật liệu:
+- Giảm tỷ lệ hao hụt cà phê từ 5% xuống 3%
+- Tái sử dụng nước đá tan để tưới cây
+- Sử dụng cốc giấy tái chế thân thiện môi trường
+
+Nâng cao năng suất:
+- Đặt mục tiêu tăng số lượng đơn/giờ lên 25%
+- Đào tạo nhân viên đa năng: pha chế, thu ngân, phục vụ
+- Thưởng dựa trên KPI năng suất hàng tháng
+
+Đảm bảo an toàn lao động:
+- Trang bị đầy đủ thiết bị bảo hộ: găng tay, tạp dề
+- Huấn luyện an toàn lao động 6 tháng/lần
+- Lắp đặt hệ thống PCCC và lối thoát hiểm
+
+2. Quản lý chuỗi cung ứng
+
+2.1. Tìm kiếm và quản lý nhà cung cấp
+
+Xây dựng danh sách nhà cung cấp tiềm năng:
+- 5 nhà cung cấp cà phê hạt
+- 3 nhà cung cấp sữa tươi
+- 2 nhà cung cấp sirô
+- 3 nhà cung cấp đồ dùng một lần
+
+Đánh giá năng lực nhà cung cấp:
+- Yêu cầu báo giá và mẫu sản phẩm
+- Kiểm tra giấy phép kinh doanh, chứng nhận vệ sinh an toàn thực phẩm
+- Đánh giá năng lực sản xuất và giao hàng
+
+Đàm phán và ký kết hợp đồng:
+- Thỏa thuận giá cả, số lượng đặt hàng tối thiểu
+- Quy định về thời gian giao hàng, phương thức thanh toán
+- Chính sách đổi trả, bảo hành sản phẩm
+
+Theo dõi hiệu suất giao hàng:
+- Tỷ lệ đơn hàng giao đúng hẹn > 95%
+- Tỷ lệ sản phẩm đạt chất lượng > 98%
+- Thời gian xử lý đơn hàng < 24 giờ
+
+Quản lý quan hệ đối tác:
+- Họp đánh giá hàng quý với nhà cung cấp chính
+- Chia sẻ kế hoạch kinh doanh để đảm bảo nguồn cung
+- Tổ chức chương trình khuyến mãi chung
+
+Xử lý khiếu nại và tranh chấp:
+- Quy trình xử lý khiếu nại trong vòng 48 giờ
+- Thành lập bộ phận chuyên trách giải quyết tranh chấp
+- Ưu tiên thương lượng, hòa giải trước khi kiện tụng
+
+Đánh giá định kỳ:
+- Đánh giá toàn diện nhà cung cấp 6 tháng/lần
+- Xếp hạng nhà cung cấp: A, B, C dựa trên điểm số
+- Loại bỏ nhà cung cấp không đạt yêu cầu sau 2 lần cảnh báo
+
+Phát triển nhà cung cấp:
+- Hỗ trợ kỹ thuật để cải thiện chất lượng sản phẩm
+- Chia sẻ dự báo nhu cầu để nhà cung cấp chủ động sản xuất
+- Tổ chức đào tạo về quản lý chất lượng cho nhà cung cấp
+
+2.2. Thiết lập tiêu chuẩn lựa chọn
+
+Tiêu chuẩn chất lượng sản phẩm:
+- Cà phê: Arabica 100%, độ ẩm <12%, không tạp chất
+- Sữa tươi: Hàm lượng chất béo >3.5%, không chất bảo quản
+- Sirô: Độ ngọt ổn định, màu sắc tự nhiên
+- Đồ dùng một lần: An toàn thực phẩm, thân thiện môi trường
+
+Năng lực sản xuất:
+- Đáp ứng được 150% nhu cầu đặt hàng hiện tại
+- Có khả năng mở rộng sản xuất trong 6-12 tháng tới
+- Sở hữu dây chuyền sản xuất hiện đại, đạt chuẩn GMP
+
+Độ tin cậy giao hàng:
+- Tỷ lệ giao hàng đúng hẹn >95%
+- Có kho bãi và phương tiện vận chuyển riêng
+- Khả năng đáp ứng đơn hàng gấp trong vòng 24 giờ
+
+Giá cả cạnh tranh:
+- Giá thấp hơn hoặc bằng giá thị trường 5-10%
+- Chính sách giảm giá theo số lượng đặt hàng
+- Cam kết giữ ổn định giá trong 3-6 tháng
+
+Điều khoản thanh toán:
+- Chấp nhận thanh toán trả chậm 30-45 ngày
+- Không yêu cầu đặt cọc cho đơn hàng thường xuyên
+- Chấp nhận thanh toán qua chuyển khoản ngân hàng
+
+Chính sách bảo hành:
+- Đổi trả miễn phí trong vòng 7 ngày nếu phát hiện lỗi
+- Bảo hành sản phẩm tối thiểu 6 tháng
+- Hỗ trợ kỹ thuật 24/7 qua hotline
+
+Chứng nhận và giấy phép:
+- Giấy chứng nhận HACCP hoặc ISO 22000
+- Giấy phép an toàn vệ sinh thực phẩm
+- Chứng nhận xuất xứ hàng hóa (C/O) đối với hàng nhập khẩu
+
+Uy tín trên thị trường:
+- Hoạt động trên 5 năm trong ngành
+- Có danh sách khách hàng lớn, uy tín
+- Không có vi phạm pháp luật trong 3 năm gần nhất
+
+2.3. Đảm bảo chất lượng và thời gian
+
+Quy trình kiểm tra chất lượng:
+1. Kiểm tra ngoại quan: màu sắc, mùi, đóng gói
+2. Lấy mẫu ngẫu nhiên để kiểm tra chất lượng
+3. Đánh giá cảm quan với cà phê và sữa
+4. Gửi mẫu xét nghiệm định kỳ (3 tháng/lần)
+
+Lịch trình giao hàng:
+- Đặt hàng cà phê: 2 lần/tháng
+- Đặt hàng sữa tươi: 2 lần/tuần
+- Đặt hàng sirô và đồ dùng: 1 lần/tháng
+- Thời gian giao hàng: 8h-10h sáng các ngày trong tuần
+
+Kế hoạch dự phòng:
+- Duy trì lượng tồn kho an toàn cho 7 ngày hoạt động
+- Có ít nhất 2 nhà cung cấp cho mỗi loại nguyên liệu chính
+- Chuẩn bị phương án thay thế nguyên liệu trong trường hợp khẩn cấp
+
+Quản lý hàng tồn kho:
+- Áp dụng phương pháp FIFO (First In First Out)
+- Kiểm kê hàng tồn kho hàng tuần
+- Sử dụng phần mềm quản lý tồn kho tự động
+
+Xử lý hàng lỗi/hỏng:
+- Kiểm tra kỹ lưỡng khi nhận hàng
+- Lập biên bản và thông báo cho nhà cung cấp trong vòng 24h
+- Yêu cầu đổi hàng hoặc hoàn tiền trong vòng 3 ngày làm việc
+
+Theo dõi thời gian vận chuyển:
+- Yêu cầu nhà cung cấp cung cấp mã theo dõi đơn hàng
+- Ghi nhận thời gian từ lúc đặt hàng đến khi nhận hàng
+- Đánh giá hiệu suất giao hàng của từng nhà cung cấp
+
+Đánh giá độ hài lòng:
+- Khảo sát nhân viên về chất lượng nguyên liệu hàng tháng
+- Ghi nhận phản hồi của khách hàng về sản phẩm
+- Tổng hợp đánh giá độ hài lòng 3 tháng/lần
+
+Cải tiến liên tục:
+- Họp đánh giá chất lượng nguyên liệu hàng quý
+- Đề xuất cải tiến quy trình đặt hàng và kiểm tra chất lượng
+- Cập nhật tiêu chuẩn chất lượng hàng năm
+
+2.4. KPI cho nhà cung cấp
+
+Tỷ lệ giao hàng đúng hẹn:
+- Mục tiêu: >95%
+- Công thức: (Số đơn giao đúng hẹn / Tổng số đơn) x 100%
+- Đánh giá: Hàng tháng
+
+Tỷ lệ sản phẩm đạt chuẩn:
+- Mục tiêu: >98%
+- Công thức: (Số lượng sản phẩm đạt chuẩn / Tổng số sản phẩm) x 100%
+- Đánh giá: Mỗi lô hàng
+
+Thời gian xử lý đơn hàng:
+- Mục tiêu: <24 giờ
+- Công thức: Thời gian từ lúc đặt hàng đến lúc xác nhận đơn
+- Đánh giá: Mỗi đơn hàng
+
+Khả năng đáp ứng đơn gấp:
+- Mục tiêu: >90%
+- Công thức: (Số đơn gấp được đáp ứng / Tổng số đơn gấp) x 100%
+- Đánh giá: Hàng quý
+
+Chi phí vận chuyển:
+- Mục tiêu: <5% giá trị đơn hàng
+- Công thức: (Chi phí vận chuyển / Tổng giá trị đơn hàng) x 100%
+- Đánh giá: Hàng tháng
+
+Tỷ lệ hoàn thành đơn hàng:
+- Mục tiêu: >99%
+- Công thức: (Số đơn hoàn thành đầy đủ / Tổng số đơn) x 100%
+- Đánh giá: Hàng tháng
+
+Thời gian xử lý khiếu nại:
+- Mục tiêu: <48 giờ
+- Công thức: Thời gian từ lúc nhận khiếu nại đến lúc giải quyết
+- Đánh giá: Mỗi trường hợp khiếu nại
+
+Mức độ hợp tác:
+- Mục tiêu: >8/10 điểm
+- Công thức: Đánh giá chủ quan dựa trên thang điểm 10
+- Đánh giá: Hàng quý
+
+3. Đào tạo nhân viên
+
+3.1. Đào tạo về sản phẩm
+
+Kiến thức sản phẩm:
+- Nguồn gốc và đặc điểm các loại cà phê
+- Quy trình rang xay và bảo quản cà phê
+- Đặc tính của các loại sữa và sirô sử dụng
+- Thông tin dinh dưỡng của từng loại đồ uống
+
+Quy trình sản xuất:
+- 7 bước chuẩn trong pha chế espresso
+- Kỹ thuật đánh sữa tạo bọt mịn
+- Quy trình pha chế 5 loại cà phê signature
+- Cách trang trí latte art cơ bản
+
+Tiêu chuẩn chất lượng:
+- Nhiệt độ chuẩn cho từng loại đồ uống
+- Tỷ lệ pha chế chuẩn cho mỗi công thức
+- Thời gian chiết xuất espresso: 25-30 giây
+- Đánh giá chất lượng bằng phương pháp cupping
+
+Cách sử dụng và bảo quản:
+- Hướng dẫn sử dụng máy pha cà phê chuyên nghiệp
+- Quy trình vệ sinh thiết bị hàng ngày
+- Cách bảo quản nguyên liệu tươi sống
+- Quy định về thời hạn sử dụng sau khi mở bao bì
+
+Xử lý sự cố:
+- Cách xử lý khi máy pha cà phê gặp trục trặc
+- Quy trình xử lý khi đồ uống không đạt chuẩn
+- Cách khắc phục lỗi trong quá trình đánh sữa
+- Xử lý tình huống khi nguyên liệu không đủ
+
+Chính sách bảo hành:
+- Quy định đổi trả sản phẩm trong vòng 15 phút
+- Chính sách hoàn tiền nếu khách không hài lòng
+- Quy trình xử lý khiếu nại của khách hàng
+- Thẩm quyền của nhân viên trong việc bồi thường
+
+Điểm khác biệt sản phẩm:
+- Sử dụng 100% cà phê Arabica hữu cơ
+- Công thức độc quyền cho 5 loại signature drinks
+- Trang trí latte art theo yêu cầu khách hàng
+- Cung cấp thông tin chi tiết về nguồn gốc cà phê
+
+Phản hồi khách hàng:
+- Cách ghi nhận ý kiến đóng góp của khách
+- Quy trình chuyển tiếp phản hồi đến bộ phận liên quan
+- Cách xử lý các đánh giá tiêu cực trên mạng xã hội
+- Tổng hợp và phân tích xu hướng phản hồi hàng tháng
+
+3.2. Tài liệu đào tạo
+
+Sổ tay nhân viên:
+- Giới thiệu về công ty và văn hóa doanh nghiệp
+- Quy định, nội quy làm việc
+- Mô tả công việc chi tiết cho từng vị trí
+- Chính sách lương thưởng và phúc lợi
+
+Tài liệu kỹ thuật:
+- Hướng dẫn sử dụng máy pha cà phê
+- Quy trình vệ sinh và bảo trì thiết bị
+- Công thức pha chế chuẩn cho từng loại đồ uống
+- Kỹ thuật trang trí latte art
+
+Video hướng dẫn:
+- Quy trình pha chế cơ bản (10 video)
+- Kỹ thuật đánh sữa và tạo bọt (5 video)
+- Cách sử dụng và vệ sinh máy móc (3 video)
+- Xử lý các tình huống phục vụ khách hàng (7 video)
+
+Bài kiểm tra đánh giá:
+- Kiểm tra kiến thức sản phẩm (20 câu hỏi trắc nghiệm)
+- Đánh giá kỹ năng pha chế (thực hành 3 loại đồ uống)
+- Kiểm tra quy trình vệ sinh an toàn thực phẩm
+- Đánh giá kỹ năng giao tiếp và xử lý tình huống
+
+Case studies:
+- 5 tình huống xử lý khiếu nại khách hàng
+- 3 case study về cải tiến quy trình làm việc
+- 2 bài học kinh nghiệm từ các sự cố đã xảy ra
+- 3 ví dụ về cách tăng doanh số bán hàng
+
+Tài liệu tham khảo:
+- Sách về lịch sử và văn hóa cà phê
+- Tạp chí chuyên ngành barista
+- Báo cáo thị trường ngành F&B
+- Tài liệu về xu hướng tiêu dùng cà phê
+
+Cập nhật kiến thức mới:
+- Bản tin nội bộ hàng tuần về sản phẩm mới
+- Thông báo cập nhật quy trình làm việc
+- Chia sẻ kinh nghiệm từ các chuyên gia
+- Tổng hợp phản hồi khách hàng hàng tháng
+
+Thư viện số:
+- Cơ sở dữ liệu online về các loại cà phê
+- Thư viện hình ảnh và video về kỹ thuật pha chế
+- Forum nội bộ để trao đổi kinh nghiệm
+- App mobile tra cứu thông tin sản phẩm
+
+3.3. Quy trình làm việc và SOP
+
+Quy trình vận hành chuẩn:
+1. Quy trình mở cửa hàng
+2. Quy trình đóng cửa hàng
+3. Quy trình pha chế đồ uống
+4. Quy trình phục vụ khách hàng
+5. Quy trình vệ sinh thiết bị
+6. Quy trình xử lý khiếu nại
+
+Hướng dẫn công việc chi tiết:
+- Checklist công việc đầu ca, cuối ca
+- Hướng dẫn sử dụng POS và máy in bill
+- Quy định về đồng phục và vệ sinh cá nhân
+- Cách sắp xếp khu vực pha chế và phục vụ
+
+Checklist kiểm tra:
+- Kiểm tra chất lượng nguyên liệu đầu ca
+- Kiểm tra vệ sinh thiết bị trước khi sử dụng
+- Kiểm tra nhiệt độ tủ lạnh 3 lần/ngày
+- Kiểm tra hạn sử dụng sản phẩm hàng ngày
+
+Biểu mẫu báo cáo:
+- Báo cáo doanh số bán hàng hàng ngày
+- Báo cáo tồn kho nguyên vật liệu hàng tuần
+- Báo cáo sự cố và khiếu nại khách hàng
+- Đánh giá hiệu suất nhân viên hàng tháng
+
+Quy trình xử lý sự cố:
+1. Ghi nhận thông tin sự cố
+2. Phân loại mức độ nghiêm trọng
+3. Thực hiện biện pháp khắc phục tạm thời
+4. Báo cáo cấp trên (nếu cần)
+5. Tìm nguyên nhân gốc rễ
+6. Đề xuất giải pháp lâu dài
+
+Quy định an toàn:
+- Quy định về phòng cháy chữa cháy
+- Hướng dẫn sơ cấp cứu cơ bản
+- Quy trình xử lý tai nạn lao động
+- Quy định về an toàn vệ sinh thực phẩm
+
+Quy tắc ứng xử:
+- Cách chào hỏi và tiếp đón khách hàng
+- Quy định về sử dụng điện thoại khi làm việc
+- Cách xử lý tình huống với khách hàng khó tính
+- Quy tắc bảo mật thông tin công ty và khách hàng
+
+Đánh giá tuân thủ:
+- Kiểm tra ngẫu nhiên việc tuân thủ SOP hàng tuần
+- Đánh giá mức độ tuân thủ qua camera giám sát
+- Khảo sát ý kiến khách hàng về chất lượng dịch vụ
+- Tổ chức cuộc thi "Nhân viên tuân thủ SOP xuất sắc" hàng quý
+
+3.4. Kỹ năng cần thiết
+
+Kỹ năng chuyên môn:
+- Kiến thức về các loại cà phê và phương pháp pha chế
+- Kỹ thuật đánh sữa và tạo bọt
+- Khả năng nhận biết chất lượng cà phê qua màu sắc, mùi, vị
+- Kỹ năng trang trí latte art cơ bản
+
+Kỹ năng vận hành thiết bị:
+- Sử dụng thành thạo máy pha cà phê chuyên nghiệp
+- Vận hành máy xay cà phê và điều chỉnh độ mịn
+- Sử dụng máy đánh sữa và tạo bọt
+- Thao tác chuẩn với các loại dụng cụ pha chế
+
+Kỹ năng quản lý thời gian:
+- Khả năng pha chế nhiều đơn hàng cùng lúc
+- Sắp xếp thứ tự ưu tiên trong giờ cao điểm
+- Tối ưu hóa quy trình làm việc để giảm thời gian chờ
+- Quản lý
